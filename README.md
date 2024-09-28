@@ -1,6 +1,6 @@
 
-<h3 align="center">A passionate backend developer</h3>
-(img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif")
+<h3 align="center">Backend developer passionate about building efficient systems</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep652&label=Profile%20views&color=0e75b6&style=flat" alt="deep652" /> </p>
 
 - 🌱 I’m currently learning **Docker, Kubernetes, Springboot**
